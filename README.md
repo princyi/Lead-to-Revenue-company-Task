@@ -32,4 +32,11 @@ Code quality and structure.
 Responsiveness and cross-device usability.
 Overall performance and efficiency of the application.
 
+# Asynchronous Data Fetching: I refactored the data fetching to use async/await for better readability.
+# State Management: The state is managed cleanly using useState for various app states (country, data, error, loading).
+# Error Handling: Error messages are displayed in a consistent manner using conditional rendering.
+# Responsive Design: Minor changes in the CSS (like max-width for charts) ensure better responsiveness across different screen sizes.
+# Component Structure: The code is modular and easy to maintain, with each feature (country dropdown, stats cards, and line chart) placed in separate components.
+# CSS Styling: The styling is improved for clarity and visual appeal (such as adding margins, padding, and a cleaner layout).
+
 # Thank you !!  
