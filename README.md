@@ -8,7 +8,8 @@
 
 # The assignment requires the creation of a COVID-19 dashboard using React.js that visualizes pandemic statistics through interactive charts, integrating two RESTful APIs for historical data and country options, while adhering to specific evaluation criteria such as code quality and responsiveness
 
-# solution :- To create a COVID-19 dashboard using React.js, you need to integrate two RESTful APIs: one for fetching historical COVID-19 data and another for populating a dropdown menu with country options. The historical data can be accessed via the endpoint `https://disease.sh/v3/covid-19/historical/{country}?lastdays=1500`, where you replace `{country}` with the selected country's ISO code, such as "usa" for the USA. For the dropdown, you can use the endpoint `https://restcountries.com/v3.1/all`, which provides a list of countries without requiring any parameters. Additionally, ensure that your application adheres to the provided mockup, maintains code quality, and is responsive across devices, as these are key evaluation criteria.
+# solution
+:- To create a COVID-19 dashboard using React.js, you need to integrate two RESTful APIs: one for fetching historical COVID-19 data and another for populating a dropdown menu with country options. The historical data can be accessed via the endpoint `https://disease.sh/v3/covid-19/historical/{country}?lastdays=1500`, where you replace `{country}` with the selected country's ISO code, such as "usa" for the USA. For the dropdown, you can use the endpoint `https://restcountries.com/v3.1/all`, which provides a list of countries without requiring any parameters. Additionally, ensure that your application adheres to the provided mockup, maintains code quality, and is responsive across devices, as these are key evaluation criteria.
 
 # API Integration:
 
